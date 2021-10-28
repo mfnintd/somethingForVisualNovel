@@ -1,0 +1,14 @@
+﻿[Message:   BepInEx] BepInEx 5.4.9.0 - Aokana
+[Info   :   BepInEx] Running under Unity v2018.2.19.432399
+[Info   :   BepInEx] CLR runtime version: 2.0.50727.1433
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugins to load
+[Info   :   BepInEx] Loading [Aokana Patch Plugin 1.0.0.0]
+[Message:   BepInEx] Chainloader startup complete
